@@ -1,6 +1,10 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/zeozeozeo/imagesim)](https://goreportcard.com/report/github.com/zeozeozeo/imagesim)
+![GitHub](https://img.shields.io/github/license/zeozeozeo/imagesim)
 # image SIMililarity
 
 This is a fast and simple algorithm for comparing the similarity of 2 images. Pure Go and zero dependencies.
+
+# [Example](https://github.com/zeozeozeo/imagesim/blob/main/internal/example/compare.go)
 
 ## The hashing algorithm
 
